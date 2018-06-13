@@ -1,6 +1,3 @@
-	#Winter Meng, CSE 410 HW4
-	#4/19/2018
-
 	# main()
 	#  r1 is return address
 	#  r7 is stack pointer
