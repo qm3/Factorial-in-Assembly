@@ -1,2 +1,5 @@
 # Factorial-in-Assembly
-This repo contains an assembly program to compute the factorial of a given number. 
+This project computes the factorial of a given number. The program is written in assembly language. 
+
+To build the program, type:
+$ assembler.pl prologue.asm main.asm fact.asm
